@@ -21,5 +21,3 @@ https://github.com/hdwgb95/springboot-mybatis-xml/issues
 
 ## 关于作者
 
-- 个人主页
-- 收款二维码
