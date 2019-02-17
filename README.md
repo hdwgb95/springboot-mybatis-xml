@@ -7,6 +7,7 @@ mybatis实用的配置逐步简化版，可运行
 
 ## 安装下载
 
+- 下载地址 https://github.com/hdwgb95/springboot-mybatis-xml/releases
 
 ## 快速使用
 
